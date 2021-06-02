@@ -60,7 +60,7 @@ body {
 
 .product:hover .number {
  
-    box-shadow: 0 0 0 400px #009688;
+    box-shadow: 0 0 0 400px rgb( 0 150 136 / 80% );
 
 }
 
